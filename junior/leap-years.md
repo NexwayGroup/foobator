@@ -2,7 +2,7 @@
 
 Write a function that takes year as an int and returns boolean to indicate
 if the year is a leap one. Do not use built-in PHP functions to detect leap year.
-Provide some protection against bogus parameters.
+Provide basic protection against bogus parameters.
 
 Comment relevant pieces of code only. Use doc blocks to document
 parameters and return types.

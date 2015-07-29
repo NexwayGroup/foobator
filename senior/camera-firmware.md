@@ -1,8 +1,8 @@
-# Camera software
+# Camera firmware
 
-Your task is to write a simple photo camera software.
-It should support entire process from setting exposure time, aperture size,
-focal length, shutter release, and passing raw image to another subsystem
+Your task is to write a simple photo camera firmware.
+It should support entire process from reading sensors values, setting exposure time,
+aperture size, focal length, shutter release, and passing raw image to another subsystem
 for storing on external memory card. It should support various modes
 of operation: fully manual parameter settings, fixed exposure time,
 fixed aperture size, fully automatic settings.

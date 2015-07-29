@@ -5,7 +5,7 @@ should be supported:
 - infinite number of rows and columns in document
 - each cell may be: blank, static text, or formula
 - upon change of value all depending formulae in the document must be updated
-- cell properties are: font family, size, colour, background, boolean flag, italic flag
+- cell properties are: font family, size, colour, background, bold flag, italic flag
 - default properties inherited from document
 - property change on selection (selected rows, selected columns, rectangular selections)
 

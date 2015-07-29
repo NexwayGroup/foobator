@@ -1,6 +1,6 @@
 # Bitcoin script
 
-Develop library for running Bitcoin-like script.
+Develop library for running Bitcoin-like transaction script.
 
 Bitcoin script is a FORTH-like, stack-based, non Turing-complete language.
 Program is list of operands and operators separated with space. Each item is put onto a stack
