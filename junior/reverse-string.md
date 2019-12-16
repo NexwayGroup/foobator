@@ -1,18 +1,13 @@
 # Reverse string
 
 Write a function that takes a string as parameter and returns
-the same string but in reverse. Do not use built-in PHP functions
+the same string but in reverse. Do not use built-in/stdandard library functions
 for reversing strings or arrays.
 
-Comment relevant pieces of code only. Use doc blocks to document
-parameters and return types.
-
-Writing a unit tests for testing common cases is highly recommended
-and will be rewarded with extra points.
-
-Be concious of memory consumption and make sure the function
-can process very long strings. Bonus points awarded if you know
-the-big-O for space used (leave note in doc block).
+Bonus points for:
+- writing unit tests for testing common cases
+- turning the function into a working HTTP API server
+- recognizing the big O complexity of a solution for space and computation
 
 Input used to validate the solution (without quotes):
 - "Abcdefghijk"
