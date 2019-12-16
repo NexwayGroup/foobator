@@ -1,20 +1,15 @@
 # Roman numerals
 
-Write a function that takes a number as parameter and returns
-its representation using Roman numerals. Although positive integers
-less than 4000 are expected on input, some handling for illegal
-parameters should be provided.
+Write a function that takes a number under 4000 as parameter and returns
+its representation in Roman numerals.
 
-Comment relevant pieces of code only. Use doc blocks to document
-parameters and return types.
+Bonus points for:
+- writing unit tests for testing common cases
+- turning the function into a working HTTP API server
+- recognizing the big O complexity of a solution for space and computation
+- using tail call optimization (even if your language does not support one)
 
-Writing a unit tests for testing common cases is highly recommended
-and will be rewarded with extra points.
-
-Be concious of memory consumption and height of call stack.
-Bonus points awarded if you can apply tail-call optimization.
-
-Input used to validate the solution (quotes denote strings):
+Input used to validate the solution:
 - 1024
 - 1999
 - 2000
@@ -24,4 +19,3 @@ Input used to validate the solution (quotes denote strings):
 - -9
 - 65536
 - 36.6
-- "qwerty"
