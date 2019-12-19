@@ -1,4 +1,4 @@
-# Petrol stations
+# Managing users via REST API
 
 Develop a REST API microservice for managing users.
 
